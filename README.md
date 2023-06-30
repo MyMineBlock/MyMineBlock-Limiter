@@ -8,8 +8,9 @@ STEPS FOR AVOIDING DETECTION:
     ADD DLL REFERENCES INCLUDED IN THE RELEASE FOLDER
     RENAME NAMESPACES, EXE NAMES, AND WINDOW NAMES
     BUILD YOURSELF AND ENJOY(?)
-NO TESTING HAS BEEN DONE WITH THIS METHOD (Bans handed out are PC bans (all accounts on the PC get banned (PC reset required, no drive ban)))
-
+Testing is happening right now! 
+Updates will be posted 48 hours from now.
+Bans handed out are PC bans (all accounts on the PC get banned (PC reset required, no drive ban))
 
 
 Download Net Limiter and register with this: XLEVD-PNASB-6A3BD-Z72GJ-SPAH7
