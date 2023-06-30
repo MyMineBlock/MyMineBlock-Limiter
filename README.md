@@ -4,10 +4,12 @@ EXTREMELY IMPORTANT:
 
 YOU WILL GET BANNED IF YOU USE THE RELEASE VERSION
 STEPS FOR AVOIDING DETECTION:
+
     DOWNLOAD SOURCE CODE
     ADD DLL REFERENCES INCLUDED IN THE RELEASE FOLDER
     RENAME NAMESPACES, EXE NAMES, AND WINDOW NAMES
     BUILD YOURSELF AND ENJOY(?)
+    
 Testing is happening right now! 
 Updates will be posted 48 hours from now.
 Bans handed out are PC bans (all accounts on the PC get banned (PC reset required, no drive ban))
