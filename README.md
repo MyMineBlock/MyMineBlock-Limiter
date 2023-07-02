@@ -13,7 +13,7 @@ STEPS FOR AVOIDING DETECTION:
 Bans handed out are PC bans (all accounts on the PC get banned (PC reset required, no drive ban))
     This is inconsistent and seems to vary from person to person
 
-Testing has been done, and the method above does work. Keep in mind that we will never know exactly what they are doing so enjoy at your own risk
+Testing has been done, and the method above does work. Keep in mind that we will never know exactly what they are doing (enjoy at your own risk)
 
 Download Net Limiter and register with this: XLEVD-PNASB-6A3BD-Z72GJ-SPAH7
 
