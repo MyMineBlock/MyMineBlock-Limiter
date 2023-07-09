@@ -775,5 +775,28 @@ namespace NLMMB
                 MessageBox.Show("You probably used some image from Google images");
             }
         }
+
+        private void Form1_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Filter Destiny_2 = client.Filters.Find(x => x.Name == "Destiny 2");
+            Filter Dl3074 = client.Filters.Find(x => x.Name == "3074 Down");
+            Filter Ul3074 = client.Filters.Find(x => x.Name == "3074 Up");
+            Filter Dl7500 = client.Filters.Find(x => x.Name == "7500 Down");
+            Filter Ul7500 = client.Filters.Find(x => x.Name == "7500 Up");
+            Filter Dl27k = client.Filters.Find(x => x.Name == "27k Down");
+            Filter Ul27k = client.Filters.Find(x => x.Name == "27k Up");
+            Filter Dl30k = client.Filters.Find(x => x.Name == "30k");
+            Filter Blocker27k = client.Filters.Find(x => x.Name == "PvP Limit");
+
+            client.RemoveFilter(Destiny_2);
+            client.RemoveFilter(Dl3074);
+            client.RemoveFilter(Ul3074);
+            client.RemoveFilter(Dl7500);
+            client.RemoveFilter(Ul7500);
+            client.RemoveFilter(Dl27k);
+            client.RemoveFilter(Ul27k);
+            client.RemoveFilter(Dl30k);
+            client.RemoveFilter(Blocker27k);
+        }
     }
 }
